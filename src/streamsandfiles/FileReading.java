@@ -11,7 +11,6 @@ public class FileReading {
         FileInputStream fin = new FileInputStream("c://file.txt");
 
         System.out.println("File Contents: ");
-        System.out.println("  safhg");
 
         int ch;
         while ((ch=fin.read()) != -1)
