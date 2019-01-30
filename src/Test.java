@@ -13,6 +13,5 @@ public class Test {
         System.out.println("Enter Contact: ");
         String cell = sc.nextLine();
         System.out.println("Name: " + name + "\nAddress: "+address + "\nCell: " + cell);
-
     }
 }
