@@ -1,6 +1,4 @@
-package arrays;
-
-import java.util.Scanner;
+package arrayss;
 
 public class Four {
 

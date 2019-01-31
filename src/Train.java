@@ -1,6 +1,9 @@
-
+import org.apache.log4j.Logger;
 
 public class Train {
+
+    private static final Logger log = Logger.getLogger(Train.class);
+
     private static final int ID = 1;
     private static final String NAME = "Achyuth";
 
@@ -24,5 +27,6 @@ public class Train {
         Train t = new Train();
         t.m1(1, "maths");
         System.out.println("Id: " + ID + "\nName: " + NAME);
+        log.info("Loggers");
     }
 }

@@ -1,4 +1,4 @@
-package arrays;
+package arrayss;
 
 public class Student {
 
