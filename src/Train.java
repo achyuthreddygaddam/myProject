@@ -1,6 +1,6 @@
 
-public class Train {
 
+public class Train {
     private static final int ID = 1;
     private static final String NAME = "Achyuth";
 
